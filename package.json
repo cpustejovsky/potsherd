@@ -1,0 +1,22 @@
+{
+  "name": "potsherd",
+  "version": "1.0.0",
+  "description": "place to store my webscraping scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpustejovsky/potsherd.git"
+  },
+  "author": "cpustejovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpustejovsky/potsherd/issues"
+  },
+  "homepage": "https://github.com/cpustejovsky/potsherd#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  }
+}
